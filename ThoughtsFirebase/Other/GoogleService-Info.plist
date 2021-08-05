@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>794646878898-0od4b30i1l5obc5en80cs3g97t7vd54j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.794646878898-0od4b30i1l5obc5en80cs3g97t7vd54j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBjOqRjcP-fOOIvpCXyHFH7HxON4VgFwws</string>
+	<key>GCM_SENDER_ID</key>
+	<string>794646878898</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.HieuTong.ThoughtsFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>thoughts-i</string>
+	<key>STORAGE_BUCKET</key>
+	<string>thoughts-i.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:794646878898:ios:cd9e488f5509d02eef47ab</string>
+</dict>
+</plist>
